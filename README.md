@@ -1,2 +1,1 @@
-# html-css-ii_display-position-flex
-Created with CodeSandbox
+In-class example on html css selector properties and layout.
